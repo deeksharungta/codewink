@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/codewink/static/css/main.dfd9012e.css",
+    "main.js": "/codewink/static/js/main.92173065.js",
+    "static/media/logo-no-background.svg": "/codewink/static/media/logo-no-background.ce633ed49b7224a20cd481a0f2b8b2b6.svg",
+    "index.html": "/codewink/index.html",
+    "main.dfd9012e.css.map": "/codewink/static/css/main.dfd9012e.css.map",
+    "main.92173065.js.map": "/codewink/static/js/main.92173065.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd9012e.css",
+    "static/js/main.92173065.js"
+  ]
+}
