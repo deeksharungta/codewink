@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.language-icon {
+  background-color: #263238;
+  color: #fff;
+  width: 1.6rem;
+  height: 1.6rem;
+  border-top-left-radius: 15%;
+  border-top-right-radius: 15%;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0.1rem 0.3rem 0 0.3rem;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.func-icon {
+  color: #fff;
+  background-color: #333;
+  width: 1.6rem;
+  height: 1.2rem;
+  padding: 0.2rem;
+  border-radius: 15%;
+}
+
+.ficons {
+  display: flex;
+  gap: 0.3em;
+}
+
+.func-icon:hover {
+  background-color: #444;
+}
+
+.code-mirror-wrapper {
+  flex-grow: 1;
+  border-bottom-right-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
+  overflow: hidden;
+}
